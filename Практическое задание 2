@@ -1,0 +1,6 @@
+#2
+x1 = float(input("Введите данные x1: "))
+y1 = float(input("Введите данные y1: "))
+x2 = float(input("Введите данные x2: "))
+y2 = float(input("Введите данные y2: "))
+print(math.sqrt((x1-x2)** + (y1 - y2)**2))
