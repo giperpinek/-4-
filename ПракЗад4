@@ -1,0 +1,4 @@
+n = int(input("Введите n: "))
+k = int(input("Введите k: "))
+print(k // n)
+print(k % n )
